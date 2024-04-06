@@ -1,4 +1,4 @@
-
+<img src="person-playing-3d-video-games-device_23-2151005751.avif" alt="Description of the image">
 <h1 align="center">Hi 👋, I'm Tanish Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
